@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Acumin Regular';
+    src: url('Acumin-RPro.woff');
+}
+
+@font-face {
+    font-family: 'Acumin Italic';
+    src: url('Acumin-ItPro.woff');
+}
+
+@font-face {
+    font-family: 'Acumin Bold';
+    src: url('Acumin-BdPro.woff');
+}
+
+@font-face {
+    font-family: 'Acumin Bold Italic';
+    src: url('Acumin-BdItPro.woff');
+}

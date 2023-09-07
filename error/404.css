@@ -1,0 +1,12 @@
+html{
+    font-size: 25px;
+}
+h1{
+    font-size: 4rem;
+    margin: 0 auto;
+}
+
+body{
+    display: flex;
+    align-items: center;
+}
