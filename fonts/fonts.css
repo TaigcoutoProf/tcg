@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Acumin Regular';
+    font-family: Acumin;
     src: url('Acumin-RPro.woff');
 }
 
@@ -17,3 +17,7 @@
     font-family: 'Acumin Bold Italic';
     src: url('Acumin-BdItPro.woff');
 }
+
+/* *{
+    font-family: 'Acumin';
+} */

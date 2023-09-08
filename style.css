@@ -1,7 +1,29 @@
 header{
-    background-color: #8d3737;
-    font-family: 'Acumin Regular', monospace;
+    background-color: #333333;
+    font-family: 'Acumin';
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo{
+    width: 5rem;
+}
+#button{
+    display: inline-block;
+    padding: 1.2em;
+    background-color: #606060;
+    border-radius: 10px;
+    font-family: 'Acumin Bold';
+    transition: 200ms cubic-bezier(.79,.14,.15,.86);
+}
+#button:hover{
+    color: #333333;
+    transform: scale(1.08);
 }
 li{
     color: white;
+    display: inline;
+    margin: 0 1.5rem;
+    font-style: normal;
 }
